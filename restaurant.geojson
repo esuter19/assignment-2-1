@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Best Steakhouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.23169189691544,
+          38.63856405186949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Field House",
+        "type": "Bar and Grill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.22937715053558,
+          38.63771344658194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Goody Cafe",
+        "type": "Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.24340510368347,
+          38.639601106236086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Everest",
+        "type": "Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.25192379951476,
+          38.6277914169937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name":"Rio de Janeiro Grill",
+        "type":"Takeout"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.23938715457916,
+          38.61915055848117
+        ]
+      }
+    }
+  ]
+}
